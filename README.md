@@ -6,7 +6,7 @@ I personally refer this as "playing with data", I also enjoy identifying pattern
 ##Here are the; 
 
 - 🔭 My projects:
-- [https://github.com/kunletheanalyst1/Freelances-data-cleaning-and-visualization] (....)
+ [Freelancers data cleaning and visualization](https://github.com/kunletheanalyst1/Freelances-data-cleaning-and-visualization)
  
 - 🌱 Tools I work with:
 - SQL
@@ -18,7 +18,7 @@ I personally refer this as "playing with data", I also enjoy identifying pattern
   
 - 💬 Ask me about: data analysis Data cleaning, Excel, data analysis, dashboards, data visualization, and turning raw data into actionable insights.
  
-- 📫 How to reach me: [https://www.linkedin.com/in/adekunle-pelumi-301442382/] (....)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adekunle-pelumi-301442382/)
  
 - ⚡ Fun fact: I love "playing with data"
 -->
