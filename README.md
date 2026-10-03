@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Kunle 👋
 
-<!--
-**kunletheanalyst1/kunletheanalyst1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self taught data analyst with a background in finance- while building impactful project in core analysis, with vast experience in data cleaning, data transformation, exploratory analysis, Excel, pivot tables, data visualization, and reporting.
+I personally refer this as "playing with data", I also enjoy identifying patterns, solving data-related problems, and presenting findings in a simple and understandable way.
 
-Here are some ideas to get you started:
+#Here are the 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 My projects:
+- 
+- 🌱 Tools I work with:
+- SQL
+- POWER BI
+- Microsoft Excel
+- Google sheet
+ 
+- 👯 I’m looking to collaborate on Data analysis projects, data cleaning, Excel dashboards, data visualization, and data-driven business insights.
+  
+- 💬 Ask me about data analysis Data cleaning, Excel, data analysis, dashboards, data visualization, and turning raw data into actionable insights.
+- 
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love "playing with data"
 -->
