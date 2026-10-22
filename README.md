@@ -3,7 +3,7 @@
 I'm a self taught data analyst with a background in finance- while building impactful project in core analysis, with vast experience in data cleaning, data transformation, exploratory analysis, Excel, pivot tables, data visualization, and reporting.
 I personally refer this as "playing with data", I also enjoy identifying patterns, solving data-related problems, and presenting findings in a simple and understandable way.
 
-##Here are the; 
+#Here are; 
 
 - 🔭 My projects:
  [Freelancers data cleaning and visualization](https://github.com/kunletheanalyst1/Freelances-data-cleaning-and-visualization)
